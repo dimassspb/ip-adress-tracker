@@ -6,4 +6,4 @@ IP address tracker
 
 [LeafletJS](https://leafletjs.com/).
 
-- [Vercel](https://vercel.com/)
+[Vercel](https://vercel.com/)
